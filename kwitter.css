@@ -1,0 +1,40 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+body
+{
+background-color:crimson;
+text-align: center;
+}
+
+.header
+{
+	color: white;
+    font-family: cursive;
+    font-size: 45px;
+    letter-spacing: 10px;
+}
+.header img
+{
+	width: 80px;
+    margin-left: 15px;
+}
+.login_div
+{
+	background: rgba(255,255,255,0.8);
+	float: none;
+	border-radius: 15px;
+}
+h2
+{
+    color:blue;
+}
+#login_button
+{
+	width: 50%;
+    border-radius: 15px;
+}

@@ -1,0 +1,26 @@
+body
+{
+	background-color:darkturquoise;
+}
+#msg
+{
+	cursor: pointer;
+	font-size: 10px;
+}
+#logout
+{
+	font-size: 20px; 
+	float: left;
+}
+.header
+{
+	color:darkcyan;
+    font-family: cursive;
+    font-size: 45px;
+    letter-spacing: 10px;
+}
+.header img
+{
+	width: 80px;
+    margin-left: 15px;
+}
